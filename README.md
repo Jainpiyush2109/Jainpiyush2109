@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">, I'm Piyush Jain</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainpiyush2109&label=Profile%20views&color=0e75b6&style=flat" alt="jainpiyush2109" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
 
 ## 👨🏻‍💻 About Me:
 
@@ -26,12 +28,13 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 ## 📊 My GitHub Data:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainpiyush2109&show_icons=true&locale=en&layout=compact" alt="jainpiyush2109" /></p>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jainpiyush2109&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainpiyush2109&" alt="jainpiyush2109" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainpiyush2109&show_icons=true&locale=en&layout=compact" alt="jainpiyush2109" /></p>
+
 
 
