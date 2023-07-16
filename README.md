@@ -32,7 +32,9 @@
 <div>
 ##📊 My GitHub Data:
 
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainpiyush2109&show_icons=true&locale=en&layout=compact" alt="jainpiyush2109" /></p></div>
+<div align="center">
+  <p><img align="center" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainpiyush2109&show_icons=true&locale=en&layout=compact" alt="jainpiyush2109" /></p>
+</div>
 <div align="center">
   <div> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jainpiyush2109&show_icons=true" /></div>
   <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainpiyush2109&" alt="jainpiyush2109" /></div>
